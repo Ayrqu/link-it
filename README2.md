@@ -10,7 +10,7 @@ ________________________________________
                3-Aya Reda Kammel Ammar
                4-Abdullrahman Amr Abdullgafor Hegazy
                5-Romisaa Fetouh ElSayed Gebril
-               6-Mahmoud Magdy Soliman Abd Elhamed
+              
 ________________________________________
 # Work Plan
 1.	Research & Analysis
@@ -55,7 +55,7 @@ ________________________________________
 
 •	Testing user flows before visuals are applied
 
-6-Usability Testing (Mahmoud Magdy Soliman Abd Elhamed)
+6-Usability Testing (aya reda kamel)
 
 •	Gathering feedback from real users
 
@@ -83,7 +83,7 @@ ________________________________________
 
 •	Ensuring feedback (hover, pressed, success/error states)
 
-4-Responsive Design  (Mahmoud Magdy Soliman Abd Elhamed)
+4-Responsive Design  (Romisaa Fetouh ElSayed Gebril)
 
 •	Adapting UI to mobile, tablet, desktop
 
