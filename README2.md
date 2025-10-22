@@ -10,6 +10,7 @@ ________________________________________
                3-Aya Reda Kammel Ammar
                4-Abdullrahman Amr Abdullgafor Hegazy
                5-Romisaa Fetouh ElSayed Gebril
+               6-Mahmoud Magdy Soliman Abd Elhamed
               
 ________________________________________
 # Work Plan
@@ -17,8 +18,7 @@ ________________________________________
 o	Audience personas
 2.	Visual Identity
 o	Logo design
-3.	Main Designs
-o	Poster
+3.	Main Designs/Poster
 4.	Complementary Products
 5.	Review & Finalization
 6.	Final Presentation
@@ -65,7 +65,7 @@ ________________________________________
 
 # UI Process (User Interface)
 
-1-Design System / Style Guide (Asmaa Mohamed Aboelkher Mohamed)
+1-Design System / Style Guide (Aya reda kamel)
 
 •	Colors, typography, iconography, spacing
 
@@ -87,7 +87,7 @@ ________________________________________
 
 •	Adapting UI to mobile, tablet, desktop
 
-5-Prototyping (High Fidelity) (Aya Reda Kamel)
+5-Prototyping (High Fidelity) (Mahmoud Magdy Soliman Abd Elhamed)
 ________________________________________
 
 
