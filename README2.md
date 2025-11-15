@@ -31,13 +31,13 @@ ________________________________________
 
 •	Understanding user needs, goals, and pain points
 
-2-Define  (Malak Ahmed Elsayed Ahmed)
+2-Define  (Asmaa Mohamed Aboelkher Mohamed)
 
 •	Personas & user journey maps
 
 •	Problem statements & use cases
 
-3-Information Architecture (IA) (Abdullrahman Amr Abdullgafor Hegazy)
+3-Information Architecture (IA) (Asmaa Mohamed Aboelkher Mohamed)
 
 •	Structuring content & features logically
 
@@ -49,7 +49,7 @@ ________________________________________
 
 •	Focusing on layout & flow (not visuals yet)
 
-5-Prototyping (Romisaa Fetouh ElSayed Gebril)
+5-Prototyping (aya reda kamel)
 
 •	Interactive prototypes (low–mid fidelity)
 
@@ -88,6 +88,15 @@ ________________________________________
 •	Adapting UI to mobile, tablet, desktop
 
 5-Prototyping (High Fidelity) (Mahmoud Magdy Soliman Abd Elhamed)
+
+
+#screen number :35
+
+aya reda  kamel :21 screen
+Malak Ahmed Elsayed Ahmed: 5 screens
+Romisaa Fetouh ElSayed Gebril: 2 screens
+Mahmoud Magdy Soliman Abd Elhamed: 2 screens
+Abdullrahman Amr Abdullgafor Hegazy: 5 screens 
 ________________________________________
 
 
